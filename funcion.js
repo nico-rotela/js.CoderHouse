@@ -19,6 +19,8 @@ for(i=1;i<=2;i++){
     }
 }
 
+// segunda entrega del proyecto
+
 // array
 
 const productos =[
